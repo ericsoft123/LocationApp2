@@ -16,7 +16,7 @@
             classname="form-control"
             placeholder="Please type your address"
             v-on:placechanged="getAddressData"
-            country="sg"
+            
         >
         </vue-google-autocomplete>
             <div class="input-group-btn">
