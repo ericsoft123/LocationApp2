@@ -2,14 +2,14 @@
 let config;
 config={
     googleapi_url:"https://maps.googleapis.com/maps/api",
-    googleapi_key:"AIzaSyCSHiuycP-Ea9cdFKdfpGs0coDv2WjKAlw",
+    googleapi_key:"YOUR GOOGLE API KEY",
     foursquare_url:"https://api.foursquare.com/v2",
-    foursquare_clientid:"KQ5QT5YMJ5NY4M1XX1ZVREBR0P10XC5A3GJHG0HDJIQ4Z3EY",
-    foursquare_clientsecret:"DNY5DQUWFDUMUYXL1AHDAGM14CGZQULWF3KY140BDJ30PNEA",
-    foursquare_v:"20190425",
+    foursquare_clientid:"YOUR FOURSQUARE CLIENTID",
+    foursquare_clientsecret:"YOUR CLIENT SECRET",
+    foursquare_v:"VERSION",//IT COMES WITH clientid and client secret
 
     flickr_url:"https://api.flickr.com/services/rest/?method=",
-    flickr_key:"dd4a16666bdf3c2180b43bec8dd1534a",
+    flickr_key:"FLICKR_KEY",
     radius_val:10000,
     limit_val:10,
 }
