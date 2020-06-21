@@ -1,10 +1,5 @@
 # locationapp2
-#Note:
-make sure after npm  install
-change config.js file add your own keys
-change also google maps key on public/index.html
-Note:if you do not want to setup your own key(flickr,foursquare,google) just contact me at ericsoft123@gmail.com i will send you
-config files with key and html file too
+
 
 ##clone repository
 
